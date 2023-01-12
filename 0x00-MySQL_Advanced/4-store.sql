@@ -1,7 +1,6 @@
 -- a SQL script that creates a trigger that decreases the quantity of an item after adding a new order
 -- quantity of items can be negative
 -- the trigger is called after inserting a new order
-
 CREATE TRIGGER decrease_quantity
 AFTER INSERT
 ON orders FOR EACH ROW
