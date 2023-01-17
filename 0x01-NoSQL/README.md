@@ -27,7 +27,7 @@
 * [2. Insert a document](./2-insert)
 * [3. All documents](./3-all)
 * [4. All matches](./4-match)
-* [5. Count](./5-count.py)
+* [5. Count](./5-count)
 * [6. Update](./6-update)
 * [7. Delete by match](./7-delete)
 * [8. List all documents in Python](./8-all.py)
